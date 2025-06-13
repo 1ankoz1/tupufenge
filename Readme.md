@@ -480,18 +480,30 @@ end
 ## 四、操作截图
 
 ### 主界面：
-![主界面截图](https://media/image1.png)
+![主界面截图](ttps://github.com/1ankoz1/tupufenge/blob/main/tupian/GUI.png)
 
 ### 分割结果示例：
 
 #### 自然图像分割：
-![自然图像分割结果](https://media/image2.png)
+![自然图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/sobel1.png)
+![自然图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/Canny1.png)
+![自然图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/Otsu1.png)
+![自然图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/quyu1.png)
+![自然图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/fen1.png)
 
 #### 医学图像分割：
-![医学图像分割结果](https://media/image3.png)
+![医学图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/sobel2.png)
+![医学图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/Canny2.png)
+![医学图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/Otsu2.png)
+![医学图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/quyu2.png)
+![医学图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/fen2.png)
 
 #### 工业图像分割：
-![工业图像分割结果](https://media/image4.png)
+![工业图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/sobel3.png)
+![工业图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/Canny3.png)
+![工业图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/Otsu3.png)
+![工业图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/quyu2.png)
+![工业图像分割结果](https://github.com/1ankoz1/tupufenge/blob/main/tupian/fen3.png)
 
 ## 五、注意事项
 
@@ -502,7 +514,7 @@ end
 
 ## 六、测试图像
 
-工具包中包含以下测试图像：
+本次实验中包含以下测试图像：
 ![自然图像](https://github.com/1ankoz1/tupufenge/blob/main/hill.jpg)
 ![医学图像](https://github.com/1ankoz1/tupufenge/blob/main/HPV.jpg)
 ![工业图像](https://github.com/1ankoz1/tupufenge/blob/main/robot_arm.jpg)
