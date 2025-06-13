@@ -480,7 +480,7 @@ end
 ## 四、操作截图
 
 ### 主界面：
-![主界面截图](ttps://github.com/1ankoz1/tupufenge/blob/main/tupian/GUI.png)
+![主界面截图](https://github.com/1ankoz1/tupufenge/blob/main/tupian/GUI.png)
 
 ### 分割结果示例：
 
